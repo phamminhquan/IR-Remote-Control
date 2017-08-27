@@ -5,5 +5,6 @@
 |-|-|
 | Processor | ATXMEGA 128A1u |
 | Microcontroller | uPAD 1.4 |
-| Accessories | IR-LED, IR Sensor for testing |
+| Accessories | IR-LED, IR Sensor for testing, Tactile Switch |
 | Peripherals | Timer/Counter, Overflow Interrupts |
+
